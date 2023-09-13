@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm Jumanazar
+- 🌱 I’m currently learning Web development
 <!--
 **abdrslv/abdrslv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
